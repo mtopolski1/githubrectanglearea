@@ -1,0 +1,12 @@
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/bin/Debug/netcoreapp3.1/practiceGroup.deps.json
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/bin/Debug/netcoreapp3.1/practiceGroup.runtimeconfig.json
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/bin/Debug/netcoreapp3.1/practiceGroup.runtimeconfig.dev.json
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/bin/Debug/netcoreapp3.1/practiceGroup.dll
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/bin/Debug/netcoreapp3.1/practiceGroup.pdb
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.csprojAssemblyReference.cache
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.AssemblyInfoInputs.cache
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.AssemblyInfo.cs
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.csproj.CoreCompileInputs.cache
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.dll
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.pdb
+/Users/marktopolski/Projects/practiceGroup/practiceGroup/obj/Debug/netcoreapp3.1/practiceGroup.genruntimeconfig.cache
